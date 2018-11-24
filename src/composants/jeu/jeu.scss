@@ -1,0 +1,7 @@
+// permet d'avoir les colonnes les une à côté des autres
+
+.jeu
+{
+  display: flex;
+  flex-flow: row nowrap;
+}
